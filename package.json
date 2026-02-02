@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YOUR-USERNAME/black-death-game.git"
+    "url": "git+https://github.com/edps6560camdenrobinson/black-death-game.git"
   },
   "keywords": [
     "education",
@@ -23,9 +23,9 @@
   "author": "Your Name",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/YOUR-USERNAME/black-death-game/issues"
+    "url": "https://github.com/edps6560camdenrobinson/black-death-game/issues"
   },
-  "homepage": "https://YOUR-USERNAME.github.io/black-death-game/",
+  "homepage": "https://edps6560camdenrobinson.github.io/black-death-game/",
   "devDependencies": {
     "vite": "^5.0.0"
   }
